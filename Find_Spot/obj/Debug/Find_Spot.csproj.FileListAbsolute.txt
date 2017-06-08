@@ -31,3 +31,36 @@ c:\users\adi2cool18\documents\visual studio 2015\Projects\Find_Spot\Find_Spot\bi
 c:\users\adi2cool18\documents\visual studio 2015\Projects\Find_Spot\Find_Spot\obj\Debug\Find_Spot.csprojResolveAssemblyReference.cache
 c:\users\adi2cool18\documents\visual studio 2015\Projects\Find_Spot\Find_Spot\obj\Debug\Find_Spot.dll
 c:\users\adi2cool18\documents\visual studio 2015\Projects\Find_Spot\Find_Spot\obj\Debug\Find_Spot.pdb
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\ApplicationInsights.config
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\csc.exe
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\vbc.exe
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\VBCSCompiler.exe
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Find_Spot.dll.config
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Find_Spot.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Find_Spot.pdb
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.Web.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.Web.xml
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\obj\Debug\Find_Spot.csprojResolveAssemblyReference.cache
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\obj\Debug\Find_Spot.dll
+C:\Users\adi2cool18\Source\Repos\ASPCloud2\Find_Spot\obj\Debug\Find_Spot.pdb
