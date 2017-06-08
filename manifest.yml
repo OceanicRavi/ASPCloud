@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: SearchHomes
+  host: SearchHomes
+  disk_quota: 1024M
+  services:
+  - SearchHomes-cloudantNoSQLDB
