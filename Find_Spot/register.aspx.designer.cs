@@ -22,6 +22,15 @@ namespace Find_Spot {
         protected global::System.Web.UI.WebControls.TextBox txtNameRegister;
         
         /// <summary>
+        /// ReqtxtName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ReqtxtName;
+        
+        /// <summary>
         /// txtEmailRegister control.
         /// </summary>
         /// <remarks>
@@ -31,6 +40,33 @@ namespace Find_Spot {
         protected global::System.Web.UI.WebControls.TextBox txtEmailRegister;
         
         /// <summary>
+        /// ReqEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ReqEmail;
+        
+        /// <summary>
+        /// txtUsernameRegister control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtUsernameRegister;
+        
+        /// <summary>
+        /// ReqUsername control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ReqUsername;
+        
+        /// <summary>
         /// txtPasswordRegister control.
         /// </summary>
         /// <remarks>
@@ -38,6 +74,60 @@ namespace Find_Spot {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtPasswordRegister;
+        
+        /// <summary>
+        /// ReqPassword control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ReqPassword;
+        
+        /// <summary>
+        /// txtPasswordReenter control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtPasswordReenter;
+        
+        /// <summary>
+        /// ReqPasswordReenter control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ReqPasswordReenter;
+        
+        /// <summary>
+        /// ComparetxtPasswordReenter control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CompareValidator ComparetxtPasswordReenter;
+        
+        /// <summary>
+        /// rbtnRoleList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButtonList rbtnRoleList;
+        
+        /// <summary>
+        /// ReqrbtnRoleList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ReqrbtnRoleList;
         
         /// <summary>
         /// btnRegister control.
