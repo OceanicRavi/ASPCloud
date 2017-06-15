@@ -94,6 +94,7 @@ C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\Microsoft.AI.Web.xml
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\Microsoft.ApplicationInsights.xml
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Debug\Find_Spot.csprojResolveAssemblyReference.cache
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Debug\Find_Spot.dll
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Debug\Find_Spot.pdb
+C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\GoogleMaps.LocationServices.dll
+C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Debug\Find_Spot.csprojResolveAssemblyReference.cache

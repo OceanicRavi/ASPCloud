@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/main.Master" AutoEventWireup="true" CodeBehind="register.aspx.cs" Inherits="Find_Spot.register" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/main.Master" AutoEventWireup="true" CodeBehind="register.aspx.cs" Inherits="Find_Spot.register" EnableEventValidation="false" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -35,7 +35,7 @@
                             ControlToValidate="txtPasswordReenter" ValidationGroup="ValidateRegistration" ErrorMessage="Your passwords do not match up!"
                             Display="Dynamic" ForeColor="Red" />
                         <asp:Label runat="server" CssClass="label" Text="Select Role : "></asp:Label>
-                        <asp:RadioButtonList class="radio" ID="rbtnRoleList" runat="server" RepeatDirection="Horizontal">
+                        <asp:RadioButtonList class="radio" ID="rbtnRoleList" runat="server" CssClass="radio-inline" RepeatDirection="Vertical">
                             <asp:ListItem Text="BUYER" Value="BUYER"></asp:ListItem>
                             <asp:ListItem Text="SELLER" Value="SELLER"></asp:ListItem>
                         </asp:RadioButtonList>

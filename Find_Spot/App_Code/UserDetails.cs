@@ -28,10 +28,10 @@ namespace Find_Spot.App_Code
 
             //INSERT INTO DBO.SELLER
             if (RequestQuery.ToUpper() == "tblSELLER_Insert".ToUpper())
-                return ("insert into dbo.seller (agentid,title,availableroom,vacancy,rent,location) values (@agentid,@title,@availableroom,@vacancy,@rent,@location)");
+                return ("insert into dbo.seller (agentid,title,availableroom,vacancy,rent,location,description) values (@agentid,@title,@availableroom,@vacancy,@rent,@location,@description)");
             //UPDATE DBO.SELLER
             if (RequestQuery.ToUpper() == "tblSELLER_Update".ToUpper())
-                return ("update dbo.seller set agentid = @agentid,title = @title,availableroom = @availableroom,vacancy = @vacancy,rent = @rent,location = @location where sellerid = @sellerid");
+                return ("update dbo.seller set agentid = @agentid,title = @title,availableroom = @availableroom,vacancy = @vacancy,rent = @rent,location = @location,description=@description where sellerid = @sellerid");
             //DELETE DBO.SELLER
             if (RequestQuery.ToUpper() == "tblSELLER_Delete".ToUpper())
                 return ("delete from dbo.seller where sellerid = @sellerid");
@@ -52,19 +52,19 @@ namespace Find_Spot.App_Code
 
             //INSERT INTO DBO.RULE
             if (RequestQuery.ToUpper() == "tblRULE_Insert".ToUpper())
-                return ("insert into dbo.rule (sellerid,rules) values (@sellerid,@rules)");
+                return ("insert into dbo.ruleS (sellerid,rules) values (@sellerid,@rules)");
             //UPDATE DBO.RULE
             if (RequestQuery.ToUpper() == "tblRULE_Update".ToUpper())
-                return ("update dbo.rule set sellerid = @sellerid,rules = @rules where ruleid = @ruleid");
+                return ("update dbo.ruleS set sellerid = @sellerid,rules = @rules where ruleid = @ruleid");
             //DELETE DBO.RULE
             if (RequestQuery.ToUpper() == "tblRULE_Delete".ToUpper())
-                return ("delete from dbo.rule where ruleid = @ruleid");
+                return ("delete from dbo.ruleS where ruleid = @ruleid");
 
             //CRUD OPERATIONS FOR DBO.FACILITY
 
             //INSERT INTO DBO.FACILITY
             if (RequestQuery.ToUpper() == "tblFACILITY_Insert".ToUpper())
-                return ("insert into dbo.facility (sellerid,bed,parking,transport,wifi,tv,laundry,heater,breakfast) values (@sellerid,@bed,@parking,@transport,@wifi,@tv,@laundry,@heater,@breakfast)");
+                return ("insert into dbo.facility (sellerid,bed,parking,transport,wifi,tv,laundry,heater,breakfast) values (@sellerid,@a1,@a2,@a3,@a4,@a5,@a6,@a7,@a8)");
             //UPDATE DBO.FACILITY
             if (RequestQuery.ToUpper() == "tblFACILITY_Update".ToUpper())
                 return ("update dbo.facility set sellerid = @sellerid,bed = @bed,parking = @parking,transport = @transport,wifi = @wifi,tv = @tv,laundry = @laundry,heater = @heater,breakfast = @breakfast where facilityid = @facilityid");
@@ -76,10 +76,10 @@ namespace Find_Spot.App_Code
 
             //INSERT INTO DBO.REVIEW
             if (RequestQuery.ToUpper() == "tblREVIEW_Insert".ToUpper())
-                return ("insert into dbo.review (sellerid,userid,comment,rating) values (@sellerid,@userid,@comment,@rating)");
+                return ("insert into dbo.review (sellerid,personid,comment,rating) values (@sellerid,@userid,@comment,@rating)");
             //UPDATE DBO.REVIEW
             if (RequestQuery.ToUpper() == "tblREVIEW_Update".ToUpper())
-                return ("update dbo.review set sellerid = @sellerid,userid = @userid,comment = @comment,rating = @rating where reviewid = @reviewid");
+                return ("update dbo.review set sellerid = @sellerid,personid = @userid,comment = @comment,rating = @rating where reviewid = @reviewid");
             //DELETE DBO.REVIEW
             if (RequestQuery.ToUpper() == "tblREVIEW_Delete".ToUpper())
                 return ("delete from dbo.review where reviewid = @reviewid");

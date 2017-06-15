@@ -31,3 +31,4 @@ C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\Microsoft.CodeDom.Providers.Do
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Release\Find_Spot.csprojResolveAssemblyReference.cache
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Release\Find_Spot.dll
 C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\obj\Release\Find_Spot.pdb
+C:\Users\ravi\Source\Repos\ASPCloud\Find_Spot\bin\GoogleMaps.LocationServices.dll

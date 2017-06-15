@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <div class="contact">
 	<div class="container">
-		<h3>Contat</h3>
+		<h3>Contact</h3>
 	 <div class="contact-top">
 		<div class="col-md-6 contact-top1">
 		  
